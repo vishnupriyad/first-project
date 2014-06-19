@@ -1,4 +1,5 @@
-first-project
-=============
+# First Project
+This is a project to practice Git and GitHub
 
-This is a project to practice GIt and GitHub
+## Maintainer 
+- Priya
